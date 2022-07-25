@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: co.thingthing.fleksycore:fleksycore-release:3.5.14@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3de946d3dff6beedb2dd2a3ceae1d594/transformed/jetified-fleksycore-release-3.5.14/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3de946d3dff6beedb2dd2a3ceae1d594/transformed/jetified-fleksycore-release-3.5.14/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3de946d3dff6beedb2dd2a3ceae1d594/transformed/jetified-fleksycore-release-3.5.14/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
